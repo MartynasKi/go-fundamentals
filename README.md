@@ -9,3 +9,17 @@ These are my notes and the little programs I use to check my understanding. I al
 ## Requirements
 
 [Go](https://go.dev/dl/) 1.25.0 or newer. All examples use the standard library.
+
+## How to run
+
+Open a terminal in the repository root and run one example by its directory name.
+
+```shell
+go run ./001-getting-started/examples/01-hello
+```
+
+Each topic links to its source files and includes the commands to try.
+
+## Topics
+
+- [001: Getting started](001-getting-started/README.md) — Run a Go program and pass it an argument.
