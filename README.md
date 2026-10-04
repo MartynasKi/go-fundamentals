@@ -23,3 +23,4 @@ Each topic links to its source files and includes the commands to try.
 ## Topics
 
 - [001: Getting started](001-getting-started/README.md) — Run a Go program and pass it an argument.
+- [002: Variables and types](002-variables-and-types/README.md) — Explore zero values, named types and explicit conversions.
