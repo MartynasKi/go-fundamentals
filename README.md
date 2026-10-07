@@ -25,3 +25,4 @@ Each topic links to its source files and includes the commands to try.
 - [001: Getting started](001-getting-started/README.md) — Run a Go program and pass it an argument.
 - [002: Variables and types](002-variables-and-types/README.md) — Explore zero values, named types and explicit conversions.
 - [003: Control flow](003-control-flow/README.md) — Use loops, early exits and expressionless switches.
+- [004: Functions](004-functions/README.md) — Return multiple values and keep state in a closure.
