@@ -26,3 +26,4 @@ Each topic links to its source files and includes the commands to try.
 - [002: Variables and types](002-variables-and-types/README.md) — Explore zero values, named types and explicit conversions.
 - [003: Control flow](003-control-flow/README.md) — Use loops, early exits and expressionless switches.
 - [004: Functions](004-functions/README.md) — Return multiple values and keep state in a closure.
+- [005: Arrays and slices](005-arrays-and-slices/README.md) — See when values are copied and when slices share storage.
