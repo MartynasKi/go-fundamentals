@@ -28,3 +28,4 @@ Each topic links to its source files and includes the commands to try.
 - [004: Functions](004-functions/README.md) — Return multiple values and keep state in a closure.
 - [005: Arrays and slices](005-arrays-and-slices/README.md) — See when values are copied and when slices share storage.
 - [006: Maps](006-maps/README.md) — Distinguish a missing key from a stored zero and visit keys in order.
+- [007: Structs](007-structs/README.md) — Group related fields and see what a struct copy shares.
