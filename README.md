@@ -29,3 +29,4 @@ Each topic links to its source files and includes the commands to try.
 - [005: Arrays and slices](005-arrays-and-slices/README.md) — See when values are copied and when slices share storage.
 - [006: Maps](006-maps/README.md) — Distinguish a missing key from a stored zero and visit keys in order.
 - [007: Structs](007-structs/README.md) — Group related fields and see what a struct copy shares.
+- [008: Pointers](008-pointers/README.md) — Follow an address and change a caller’s value.
