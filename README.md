@@ -33,3 +33,4 @@ Each topic links to its source files and includes the commands to try.
 - [009: Methods](009-methods/README.md) — Choose a receiver that matches the operation.
 - [010: Interfaces](010-interfaces/README.md) — Use a small interface and inspect a typed nil.
 - [011: Error handling](011-error-handling/README.md) — Wrap an error with context and find its cause.
+- [012: Defer, panic and recover](012-defer-panic-and-recover/README.md) — Trace deferred calls during a return and a panic.
