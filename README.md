@@ -35,3 +35,4 @@ Each topic links to its source files and includes the commands to try.
 - [011: Error handling](011-error-handling/README.md) — Wrap an error with context and find its cause.
 - [012: Defer, panic and recover](012-defer-panic-and-recover/README.md) — Trace deferred calls during a return and a panic.
 - [013: Packages and modules](013-packages-and-modules/README.md) — Import a local package through the root module path.
+- [014: Generics](014-generics/README.md) — Write a function for several types with one constraint.
