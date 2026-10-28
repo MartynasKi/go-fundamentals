@@ -36,3 +36,4 @@ Each topic links to its source files and includes the commands to try.
 - [012: Defer, panic and recover](012-defer-panic-and-recover/README.md) — Trace deferred calls during a return and a panic.
 - [013: Packages and modules](013-packages-and-modules/README.md) — Import a local package through the root module path.
 - [014: Generics](014-generics/README.md) — Write a function for several types with one constraint.
+- [015: Goroutines](015-goroutines/README.md) — Start work concurrently and wait for it to finish.
