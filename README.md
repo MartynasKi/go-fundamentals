@@ -37,3 +37,4 @@ Each topic links to its source files and includes the commands to try.
 - [013: Packages and modules](013-packages-and-modules/README.md) — Import a local package through the root module path.
 - [014: Generics](014-generics/README.md) — Write a function for several types with one constraint.
 - [015: Goroutines](015-goroutines/README.md) — Start work concurrently and wait for it to finish.
+- [016: Channels](016-channels/README.md) — Pass values between goroutines and signal the end of a stream.
