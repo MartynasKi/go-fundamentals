@@ -39,3 +39,4 @@ Each topic links to its source files and includes the commands to try.
 - [015: Goroutines](015-goroutines/README.md) — Start work concurrently and wait for it to finish.
 - [016: Channels](016-channels/README.md) — Pass values between goroutines and signal the end of a stream.
 - [017: Select and synchronization](017-select-and-synchronization/README.md) — Check whether a channel is ready and protect shared updates.
+- [018: Context](018-context/README.md) — Cancel a worker and observe its exit.
