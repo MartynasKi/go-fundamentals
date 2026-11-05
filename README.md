@@ -40,3 +40,4 @@ Each topic links to its source files and includes the commands to try.
 - [016: Channels](016-channels/README.md) — Pass values between goroutines and signal the end of a stream.
 - [017: Select and synchronization](017-select-and-synchronization/README.md) — Check whether a channel is ready and protect shared updates.
 - [018: Context](018-context/README.md) — Cancel a worker and observe its exit.
+- [019: Memory and garbage collection](019-memory-and-garbage-collection/README.md) — Observe how references keep data alive and what heap statistics measure.
