@@ -42,3 +42,4 @@ Each topic links to its source files and includes the commands to try.
 - [018: Context](018-context/README.md) — Cancel a worker and observe its exit.
 - [019: Memory and garbage collection](019-memory-and-garbage-collection/README.md) — Observe how references keep data alive and what heap statistics measure.
 - [020: Testing and benchmarking](020-testing-and-benchmarking/README.md) — Check behavior with table tests and measure one operation.
+- [998: Tips and tricks](998-tips-and-tricks/README.md) — Handle UTF-8 text and keep slice deletions from surprising a caller.
