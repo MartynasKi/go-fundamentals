@@ -43,3 +43,16 @@ Each topic links to its source files and includes the commands to try.
 - [019: Memory and garbage collection](019-memory-and-garbage-collection/README.md) — Observe how references keep data alive and what heap statistics measure.
 - [020: Testing and benchmarking](020-testing-and-benchmarking/README.md) — Check behavior with table tests and measure one operation.
 - [998: Tips and tricks](998-tips-and-tricks/README.md) — Handle UTF-8 text and keep slice deletions from surprising a caller.
+
+## Checking the examples
+
+From the repository root, run the static checks and tests. The testing and benchmarking topic includes the command for timing the word counter.
+
+```shell
+go vet ./...
+go test ./...
+```
+
+---
+
+This is a personal learning project. I keep the [Go language specification](https://go.dev/ref/spec) handy when I need a precise answer. If you spot a mistake or have a suggestion, please let me know.
